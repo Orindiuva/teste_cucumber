@@ -1,0 +1,4 @@
+/.ssh
+Dockerfile
+Gemfile
+Femfile.lock
