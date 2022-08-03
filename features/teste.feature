@@ -1,3 +1,4 @@
+@server
 Feature: Teste
 
   Scenario: Teste Variavel de ambiente
