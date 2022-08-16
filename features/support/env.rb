@@ -1,5 +1,9 @@
 require 'allure-cucumber'
 
+puts "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+puts "dentro do env.rb"
+puts "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
 AllureCucumber.configure do |config|
         config.results_directory = "/reports"
         config.clean_results_directory = true
